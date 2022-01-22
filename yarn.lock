@@ -5778,9 +5778,9 @@ nanocolors@^0.2.12, nanocolors@^0.2.2, nanocolors@^0.2.8:
   integrity sha512-SFNdALvzW+rVlzqexid6epYdt8H9Zol7xDoQarioEFcFN0JHo4CYNztAxmtfgGTVRCmFlEOqqhBpoFGKqSAMug==
 
 nanoid@^3.1.25:
-  version "3.1.28"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.28.tgz#3c01bac14cb6c5680569014cc65a2f26424c6bd4"
-  integrity sha512-gSu9VZ2HtmoKYe/lmyPFES5nknFrHa+/DT9muUFWFMi6Jh9E1I7bkvlQ8xxf1Kos9pi9o8lBnIOkatMhKX/YUw==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -6295,9 +6295,10 @@ pkg-up@3.1.0:
   dependencies:
     find-up "^3.0.0"
 
-plugin-image-zoom@ataft/plugin-image-zoom:
+"plugin-image-zoom@github:ataft/plugin-image-zoom":
   version "0.0.0"
-  resolved "https://codeload.github.com/ataft/plugin-image-zoom/tar.gz/a20c49db137ae2f9aa4128aafced3b74590300aa"
+  uid fab6eeeb394deea0346fd4709eb716e4d9207de8
+  resolved "https://codeload.github.com/ataft/plugin-image-zoom/tar.gz/fab6eeeb394deea0346fd4709eb716e4d9207de8"
   dependencies:
     medium-zoom "^1.0.4"
 
